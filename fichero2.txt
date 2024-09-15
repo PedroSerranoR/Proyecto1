@@ -1,1 +1,2 @@
 Linea 1 del fichero2.txt
+Esta línea es nueva.
