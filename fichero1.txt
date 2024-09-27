@@ -1,1 +1,2 @@
 Linea 1 del fichero1.txt
+Este cambio se aplica desde la rama6.
